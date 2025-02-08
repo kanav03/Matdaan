@@ -85,4 +85,4 @@ You can access the frontend at `http://localhost:3000` and the backend at `http:
 
 
 
-© ANIMESH JHA , UJJAWAL KANTT , PRANAV KHANDELWAL
+© ANIMESH JHA , Kanav Nijhawan, Abhinav Patnaik
