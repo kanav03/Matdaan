@@ -22,7 +22,7 @@ If you want SQL version of this DBMS project go to Master branch it's database i
 - MongoDB installed (for backend)
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/Animesh7853/Matdaan`
+1. Clone the repository: `git clone https://github.com/kanav03/Matdaan`
 2. Install dependencies:
    - Frontend: `cd matdaan && npm install`
    - Backend: `cd backend && npm install`
